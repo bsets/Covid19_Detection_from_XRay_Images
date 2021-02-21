@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-I am creating a test file.
-=======
-I am creating a test file.
->>>>>>> 017a8799d1d611d18418f58d63461a22c9bf9942
